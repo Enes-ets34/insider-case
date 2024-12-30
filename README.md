@@ -8,7 +8,7 @@
 ### Features
 
 - [x] Retrieve the product list using a GET request from the given URL:
-  `https://gist.githubusercontent.com/sevindi/5765c5812bbc8238a38b3cf52f233651/raw/56261d81af8561bf0a7cf692fe572f9e1e91f372/products.json`.
+      `https://gist.githubusercontent.com/sevindi/5765c5812bbc8238a38b3cf52f233651/raw/56261d81af8561bf0a7cf692fe572f9e1e91f372/products.json`.
 - [x] Append the carousel **after the element with `.product-detail` class** within the product page's structure.
 - [x] Include a title for the carousel with the text: **"You Might Also Like"**.
 - [x] Display **six and a half products** in the carousel.
@@ -31,10 +31,10 @@
 - [x] The code follows a **readable and structured format** for better maintainability.
 
 ---
-## Final View
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/289fac1932c74a5dbd533ebd2bc3a17c?sid=a20aceb0-b1a0-47c6-8779-baa7e95a3c62" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
----
+## Final View
+
+<img src="ENES_SARI_CASE.gif" />
 
 ## Installation and Usage
 
